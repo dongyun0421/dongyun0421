@@ -1,0 +1,9 @@
+streamlistreamlit
+pandas
+numpy
+yfinance
+pandas-ta
+FinanceDataReader
+pyupbit
+google-generativeai
+requests
