@@ -3,7 +3,7 @@ pandas
 numpy
 yfinance
 pandas-ta
-financedatareader
+finance-datareader
 pyupbit
 google-generativeai
 requests
